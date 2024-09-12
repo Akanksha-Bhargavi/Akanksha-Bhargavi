@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Akanksha Bhargavi 👋<br><br>👩🏻‍💻 **Software Engineer** sharing my journey and learnings in tech<br><br>💻 Experienced in building interactive web applications<br><br>💭 Currently diving into the world of **data science**, with a strong interest in **machine learning** and **AI**<br><br>🤝 Open to collaborating on projects related to the **health care domain**<br><br>👨‍💻 Explore my projects at [https://Akanksha-Bhargavi.github.io](https://Akanksha-Bhargavi.github.io)<br><br>📫 You can reach me at: *bommuakanksha20@gmail.com*<br><br>⚡ **Fun fact**: I’m fascinated by psychology and its connection to technology!<br>
+## Hi, I'm Akanksha Bhargavi 👋<br><br>👩🏻‍💻 **Software Engineer** sharing my journey and learnings in tech<br><br>💻 Experienced in building interactive web applications<br><br>💭 Currently diving into the world of **data science**, with a strong interest in **machine learning** and **AI**<br><br>🤝 Open to collaborating on projects related to the **health care domain**<br><br>👨‍💻 Explore my projects at [https://Akanksha-Bhargavi.github.io](https://Akanksha-Bhargavi.github.io)<br><br>⚡ **Fun fact**: I’m fascinated by psychology and its connection to technology!<br>
 
 
 ## 🌐 Socials:
