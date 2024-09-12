@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**Akanksha-Bhargavi/Akanksha-Bhargavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Akanksha Bhargavi 👋
 
-Here are some ideas to get you started:
+👩🏻‍💻 **Software Engineer** sharing my journey and learnings in tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Experienced in building interactive web applications
+
+💭 Currently diving into the world of **data science**, with a strong interest in **machine learning** and **AI**
+
+🤝 Open to collaborating on projects related to the **health care domain**
+
+👨‍💻 Explore my projects at [https://Akanksha-Bhargavi.github.io](https://Akanksha-Bhargavi.github.io)
+
+📫 You can reach me at: *bommuakanksha20@gmail.com*
+
+⚡ **Fun fact**: I’m fascinated by psychology and its connection to technology!
+
 -->
+[gitportfolio.txt](https://github.com/user-attachments/files/16974353/gitportfolio.txt)
