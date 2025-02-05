@@ -67,9 +67,11 @@
 <!-- LinkedIn profile link -->
 <!-- The anchor tag opens the User's LinkedIn profile in a new tab -->
  
-<a href="https://linkedin.com/in/add_your_linkedInProfileUrl" target="blank">
-<!-- LinkedIn icon with custom size for the link -->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akansha-bhargavi-bommu-b636351b5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akansha-bhargavi-bommu-b636351b5/" target="_blank">
+  <!-- LinkedIn icon with custom size for the link -->
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akansha-bhargavi-bommu-b636351b5" height="30" width="40" />
+</a>
+
 
 <!-- Kaggle profile link -->
 <a href="https://www.kaggle.com/akankshabhargavi" target="blank">
