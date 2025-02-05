@@ -1,34 +1,27 @@
-<!-- Centering an Image and Enlarging it-->
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlzOGE0NGZncjF3dXMzOG02bnNrMDY2eTE5cGlobGtxZGdicmFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Centered and Enlarged Image">
-</p>
-
-<!-- Adding a LinkedIn Badge -->
-<p align="center">
-<a href="www.linkedin.com/in/akansha-bhargavi-bommu-b636351b5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-<!--Displaying GitHub Profile View Counter -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Akanksha-Bhargavi&style=flat-square&color=blue" alt=""></p>
 
 <!--Introduce yourself !!-->
 <h1 align="center">👋 Hello, I'm Akansha!</h1>
 <h3 align="center"> Software Engineer | Data Science Enthusiast | Machine Learning Explorer</h3>
 :woman_technologist: &nbsp;About Me :
  As a Software Engineer, I am experienced in building interactive web applications and am currently enhancing my expertise in Machine Learning (ML), AI, and Natural Language Processing (NLP).
+<!-- Centering an Image and Enlarging it-->
+
+
+
 
 <!-- Subheading that Describes Roles and Interests -->
+
+- 📫 Currently Exploring: AI-powered text and image analysis—unraveling insights from language and visuals.
 
 - 🤝 Open to Collaborations: Let's build something amazing together!
 
 - 🔍 Explore my projects here [https://Akanksha-Bhargavi.github.io](https://Akanksha-Bhargavi.github.io).
 
-- 📫 You can reach me at *bommuakanksha20@gmail.com* 
-
 - 🚀 "Data isn’t just numbers, it’s the story of the world waiting to be told!"
 
 - 🔹 When I’m not coding, you’ll find me: Watching movies, writing, or sketching!
+
 
 ---
 
@@ -84,6 +77,10 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" />
 </a>
 
+<!-- Gmail profile link -->
+<a href="mailto:bommuakanksha20@gmail.com" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
+</a>
 
 <!-- End of social media links section -->
 ---
@@ -133,6 +130,9 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!--Displaying GitHub Profile View Counter -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Akanksha-Bhargavi&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://badges.pufler.dev/visits/Akanksha-Bhargavi/Akanksha-Bhargavi?color=black&logo=github" alt="GitHub Profile Visits"></p>
 ---
 </p>
 
