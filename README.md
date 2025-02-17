@@ -16,7 +16,7 @@
 
 - 🤝 Open to Collaborations: Let's build something amazing together!
 
-- 🔍 Explore my projects here ([Here](https://github.com/Akanksha-Bhargavi?tab=repositories)).
+- 🔍 Explore my projects [Here](https://github.com/Akanksha-Bhargavi?tab=repositories).
 
 - 🚀 "Data isn’t just numbers, it’s the story of the world waiting to be told!"
 
